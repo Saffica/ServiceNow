@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="My first app Table" max_length="40" name="x_279543_my_first_app_table" type="collection"/>
+</database>
